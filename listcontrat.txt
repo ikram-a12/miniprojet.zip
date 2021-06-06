@@ -1,0 +1,6 @@
+num:1  id voiture:10  id client:15  cout:20  Date Debut:01/03/2011  Date Fin:11/12/2011
+num:2  id voiture:11  id client:23  cout:10  Date Debut:22/03/2020  Date Fin:07/04/2020
+num:3  id voiture:12 id client:23  cout:50  Date Debut:22/03/2019  Date Fin:07/04/2019
+num:4  id voiture:13  id client:12  cout:40  Date Debut:01/03/2015  Date Fin:11/12/2015
+num:5  id voiture:14  id client:24  cout:70  Date Debut:22/03/2016  Date Fin:07/04/2017
+num:36 id voiture:15  id client:25  cout:90  Date Debut:22/03/2017  Date Fin:07/04/2018

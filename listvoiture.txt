@@ -1,0 +1,8 @@
+l'id voiture:14,marque:Ford,Nom:Ford x6,couleur:noire,nombre de place:4,le prix d'un jour:500,en location:non
+l'id voiture:11,marque:Ronge Rov,Nom:Rover,couleur:blanc,nombre de place:6,prix d'un jour:550,en location:non
+l'id voiture:10,marque:Dacia,Nom:Dacia ,couleur:maron,nombre de place:5,le prix d'un jour:600,en location:oui
+l'id voiture:12,marque:Merc,Nom:Mercedes,couleur:Gris,nombre de place:4,le prix d'un jour:650,en location:non
+l'id voiture:1,marque:Ford,Nom:Ford x6,couleur:noire,nombre de place:4,le prix d'un jour:500,en location:non
+l'id voiture:2,marque:Ronge Rov,Nom:Rover,couleur:blanc,nombre de place:6,prix d'un jour:550,en location:non
+l'id voiture:3,marque:Dacia,Nom:Dacia ,couleur:maron,nombre de place:5,le prix d'un jour:700,en location:oui
+l'id voiture:4,marque:Merc,Nom:Mercedes,couleur:Gris,nombre de place:4,le prix d'un jour:800,en location:non
